@@ -32,7 +32,7 @@
 **🤖 Baymax (React Native, In Development)**  
 - Created a personal healthcare companion app for tracking water intake, reminders, and daily step counts.  
 - Used Zustand for state management, Firebase Cloud Messaging (Notifee) for notifications, Gemini API for health tips, and Text-to-Speech engine for voice feedback.  
-- [GitHub]([https://github.com/Dinesh7571/SiteWatch-Mern-](https://github.com/Dinesh7571/Baymax))
+- [GitHub]([https://github.com/Dinesh7571/SiteWatch-Mern-](https://github.com/Dinesh7571/Baymax)
 
 ---
 
