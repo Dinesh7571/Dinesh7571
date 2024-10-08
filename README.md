@@ -11,6 +11,13 @@
 
 ### 💼 **PROJECTS**  
 
+[GitHub](https://github.com/Dinesh7571/SiteWatch-Mern-)
+
+**🤖 Baymax (React Native, In Development)**  
+- Created a personal healthcare companion app for tracking water intake, reminders, and daily step counts.  
+- Used Zustand for state management, Firebase Cloud Messaging (Notifee) for notifications, Gemini API for health tips, and Text-to-Speech engine for voice feedback.  
+-  [GitHub](https://github.com/Dinesh7571/Baymax)
+
 **🛒 E-commerce App (React Native & React.js)**  
 - Developed a visually appealing e-commerce app and website using React Native and React.js, focusing on user-friendly design and a dynamic experience.  
 - Integrated Zod for form validation, ensuring secure user interactions.  
@@ -27,12 +34,7 @@
 - Developed a real-time website tracking system to monitor site uptime.  
 - Incorporated features like cron job and keyword monitoring, SSL certificate tracking, and domain expiration alerts.  
 - Integrated instant notifications via email, WhatsApp, and SMS for issue detection.  
--  [GitHub](https://github.com/Dinesh7571/SiteWatch-Mern-)
 
-**🤖 Baymax (React Native, In Development)**  
-- Created a personal healthcare companion app for tracking water intake, reminders, and daily step counts.  
-- Used Zustand for state management, Firebase Cloud Messaging (Notifee) for notifications, Gemini API for health tips, and Text-to-Speech engine for voice feedback.  
--  [GitHub](https://github.com/Dinesh7571/Baymax)
 
 ---
 
