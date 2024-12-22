@@ -11,7 +11,7 @@
 
 ### 💼 **PROJECTS**  
 
-[GitHub](https://github.com/Dinesh7571/SiteWatch-Mern-)
+
 
 **.truecaller (React Native)**  
 - A Truecaller clone that demonstrates advanced integration of React Native and Kotlin native modules.
@@ -35,7 +35,7 @@
 - Incorporated features like cron job and keyword monitoring, SSL certificate tracking, and domain expiration alerts.  
 - Integrated instant notifications via email, WhatsApp, and SMS for issue detection.
   
-   [GitHub](https://github.com/Dinesh7571/Baymax)
+  [GitHub](https://github.com/Dinesh7571/SiteWatch-pro)
   
    [live](https://sitewatchpro.vercel.app)
   
@@ -46,7 +46,7 @@
 
   [GitHub](https://github.com/Dinesh7571/Ecommerce-in-react-native)
   
-  [demo](https://github.com/Dinesh7571/Ecommerce-in-react-native)
+  [demo](https://youtube.com/shorts/snl_MiUqJTw?si=aNH-DdUvRhHRHdnd)
   
 **🧺 Laundry Booking App (React Native)**  
 - Built an Android and iOS application for booking laundry services.  
@@ -55,7 +55,7 @@
 
   [GitHub](https://github.com/Dinesh7571/Laundry/tree/laundry2.0)
   
-  [demo](https://youtube.com/shorts/snl_MiUqJTw?si=aNH-DdUvRhHRHdnd)
+  
 
 
 
