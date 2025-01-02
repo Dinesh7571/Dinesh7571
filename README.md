@@ -13,7 +13,7 @@
 
 
 
-**.truecaller (React Native)**  
+**📵truecaller (React Native)**  
 - A Truecaller clone that demonstrates advanced integration of React Native and Kotlin native modules.
 - This app is designed to detect incoming calls, display caller ID, screen spam. It's a hands-on learning project ,
 - featuring robust call detection and spam filter.
