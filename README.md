@@ -67,7 +67,7 @@
 B.Tech. in Computer Science and Engineering  
 2021 – 2025 | Gorakhpur, India  
 
-**🏫 Prisha International School Gorakhpur ***
+** 🏫 Prisha International School Gorakhpur **
 12th   2019-2021 
 
 ---
