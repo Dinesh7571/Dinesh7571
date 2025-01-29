@@ -63,7 +63,7 @@
 
 ### 🎓 **EDUCATION**  
 
-**🏫 Institution of Technology and Management, GIDA Gorakhpur**  
+** 🏫 Institution of Technology and Management, GIDA Gorakhpur**  
 B.Tech. in Computer Science and Engineering  
 2021 – 2025 | Gorakhpur, India  
 
@@ -93,4 +93,4 @@ B.Tech. in Computer Science and Engineering
 - **Languages Spoken**: Hindi, English  
 - **Interests**: Science fiction and spy movies  
 
----
+
