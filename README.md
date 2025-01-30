@@ -7,7 +7,6 @@
 📍 Deoria, Uttar Pradesh, India  🇮🇳
 💻 [GitHub](https://github.com/Dinesh7571) | 🌐 [LinkedIn](https://www.linkedin.com/in/dinesh-kannaujiya-985719205/)
 
----
 
 ### 💼 **PROJECTS**  
 
