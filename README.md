@@ -5,7 +5,10 @@
 **DINESH KANNAUJIYA**  
 📧 [kannaujiya00000@gmail.com](mailto:kannaujiya00000@gmail.com)   
 📍 Deoria, Uttar Pradesh, India  🇮🇳
+[Portfolio](https://dineshk.netlify.app/)
+
 💻 [GitHub](https://github.com/Dinesh7571) | 🌐 [LinkedIn](https://www.linkedin.com/in/dinesh-kannaujiya-985719205/)
+
 
 
 ### 💼 **PROJECTS**  
