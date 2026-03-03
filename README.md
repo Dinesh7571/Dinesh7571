@@ -148,8 +148,6 @@ Published NPM library for React Native that provides full access to Android call
 
 ---
 
-## GitHub Stats
----
 
 ## Let's Connect
 
