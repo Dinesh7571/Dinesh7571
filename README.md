@@ -1,7 +1,7 @@
 
 
 ---
-
+[🚀 View Live Demo](https://dineshk.netlify.app)
 **DINESH KANNAUJIYA**  
 📧 [kannaujiya00000@gmail.com](mailto:kannaujiya00000@gmail.com)   
 📍 Deoria, Uttar Pradesh, India  🇮🇳
