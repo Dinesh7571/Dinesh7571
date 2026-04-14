@@ -12,7 +12,6 @@ Crafting high-quality React Native apps and React.js web products. Based in Deor
 [![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/react-native-calllogs-android)
 
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square&labelColor=1a1a2e)
-![Location](https://img.shields.io/badge/Location-Deoria%2C%20UP%2C%20India-3b82f6?style=flat-square&labelColor=1a1a2e)
 ![Response](https://img.shields.io/badge/Response-Within%2024h-f59e0b?style=flat-square&labelColor=1a1a2e)
 
 </div>
